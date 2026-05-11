@@ -30,7 +30,7 @@ I'm a **Data Science & Machine Learning engineer** with a passion for extracting
 - 🚀 Deploying **ML models** on cloud platforms (AWS, GCP, Azure)
 
 ### 💭 Ask Me About:
-- Python, SQL, R for data analysis
+- Python, SQL for data analysis
 - Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
 - Statistical methods and hypothesis testing
@@ -47,7 +47,6 @@ I can spend hours exploring datasets and crafting the perfect visualization! �
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-gariya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gariya/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mayank_gariya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mayank-gariya-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayank@example.com)
 
@@ -110,125 +109,18 @@ I can spend hours exploring datasets and crafting the perfect visualization! �
 
 </div>
 
----
-
-## 📚 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Predictive Analytics Dashboard
-**Advanced ML Pipeline for Sales Forecasting**
-- Time series forecasting using ARIMA & Prophet
-- Feature engineering with lag variables
-- Interactive Plotly dashboard
-- Model accuracy: 92.5%
-- **Tech**: Python, Pandas, Scikit-learn, Plotly
-
-[📁 View Project](https://github.com/mayank-gariya/predictive-analytics)
-
-</td>
-<td width="50%">
-
-### 🌍 Customer Segmentation Analysis
-**Clustering & RFM Analysis Project**
-- K-means clustering with silhouette analysis
-- RFM segmentation for targeted marketing
-- Comprehensive EDA and insights
-- 5 customer segments identified
-- **Tech**: Python, Pandas, Seaborn, Matplotlib
-
-[📁 View Project](https://github.com/mayank-gariya/customer-segmentation)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 Stock Market Analysis & Prediction
-**Deep Learning for Financial Data**
-- LSTM neural network for stock price prediction
-- Technical indicator analysis
-- Backtesting and performance metrics
-- Real-time data integration
-- **Tech**: TensorFlow, Pandas, yfinance, Plotly
-
-[📁 View Project](https://github.com/mayank-gariya/stock-prediction)
-
-</td>
-<td width="50%">
-
-### 🤖 NLP Sentiment Analysis Engine
-**Text Processing & Classification**
-- Web scraping and data preprocessing
-- TF-IDF and Word2Vec embeddings
-- Transformer models (BERT)
-- 89% accuracy on sentiment classification
-- **Tech**: Python, NLTK, spaCy, Transformers
-
-[📁 View Project](https://github.com/mayank-gariya/sentiment-analysis)
-
-</td>
-</tr>
-</table>
 
 ---
+## Learning
+- 🎓 **Advanced Machine Learning** 
+- 📊 **Data Science Specialization** 
+- 📈 **Statistics for Data Analysis** 
+- 🤖 **Deep Learning** - TensorFlow 
+- 📉 **A/B Testing & Experimentation**
 
-## 📊 Analytics & Statistics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayank-gariya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayank-gariya&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-gariya&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 Key Metrics & Achievements
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 📊 Datasets Analyzed | 50+ |
-| 🤖 ML Models Built | 30+ |
-| 📈 Visualizations Created | 100+ |
-| 🎓 Projects Completed | 15+ |
-| 💾 Databases Optimized | 12+ |
-| 🚀 Models Deployed | 8+ |
-
-</div>
-
----
-
-## 📚 Education & Certifications
-
-- 🎓 **Advanced Machine Learning** - Coursera (In Progress)
-- 📊 **Data Science Specialization** - Completed
-- 📈 **Statistics for Data Analysis** - Certified
-- 🤖 **Deep Learning** - TensorFlow Certificate
-- 📉 **A/B Testing & Experimentation** - Certified
-
----
-
-## 📖 Latest Blog Posts & Insights
-
-- 📝 *"Building Production-Ready ML Pipelines"* - Medium
-- 📝 *"Data Visualization Best Practices"* - Dev.to
-- 📝 *"Understanding Feature Engineering"* - LinkedIn
-- 📝 *"Time Series Forecasting Deep Dive"* - Hashnode
-
----
-
-## 🎯 2024-2025 Goals
+## 🎯 2026-2027 Goals
 
 ✅ Master **Advanced Deep Learning** architectures
 ✅ Build **3 production ML systems**
@@ -245,15 +137,12 @@ I can spend hours exploring datasets and crafting the perfect visualization! �
 
 **Let's collaborate on data-driven projects and create impactful insights together!**
 
-[![GitHub followers](https://img.shields.io/github/followers/mayank-gariya?style=social)](https://github.com/mayank-gariya)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mayank_gariya?style=social)](https://twitter.com/mayank_gariya)
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=100&section=footer&text=Made%20with%20%F0%9F%A4%96%20by%20Mayank%20Gariya&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=100&section=footer&text=Made%20by%20Mayank%20Gariya&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
