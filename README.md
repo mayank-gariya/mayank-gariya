@@ -109,7 +109,7 @@ I can spend hours exploring datasets and crafting the perfect visualization! �
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-## 🎯 2024-2025 Goals
+## 🎯 2025-2026 Goals
 
 ✅ Master **Advanced Deep Learning** architectures
 ✅ Build **3 production ML systems**
