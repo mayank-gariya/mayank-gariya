@@ -135,7 +135,9 @@ I'm a **Data Scientist & Machine Learning Engineer** dedicated to transforming r
 
 **Let's collaborate on data-driven projects and build intelligent systems together!**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=100&section=footer&text=Happy%20Coding%20%26%20Data%20Exploring&fontSize=18&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 </div>
 
