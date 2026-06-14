@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=200&section=header&text=Data%20Science%20%26%20ML%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Transforming%20Data%20Into%20Actionable%20Intelligence&descAlignY=65&descFontSize=20)
+<img src=""></img>
 
 <!-- Profile Views & Portfolio Button -->
 <p>
@@ -86,19 +86,6 @@ I'm a **Data Scientist & Machine Learning Engineer** dedicated to transforming r
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-gariya&show_icons=true&theme=dark&bg_color=0d1117&border_color=667eea&text_color=c9d1d9&title_color=667eea&icon_color=667eea&hide_border=true&rank_icon=percentile)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-gariya&theme=dark&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=667eea&sideNums=667eea&currStreakLabel=667eea&sideLabels=667eea&dates=c9d1d9&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-gariya&layout=compact&theme=dark&bg_color=0d1117&border_color=667eea&text_color=c9d1d9&title_color=667eea&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Learning & Growth Focus
 
