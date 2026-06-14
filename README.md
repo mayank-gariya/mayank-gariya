@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="profile image.png"></img>
+<img src="profile image(2).png"></img>
 
 <!-- Profile Views & Portfolio Button -->
 <p>
