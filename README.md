@@ -1,174 +1,154 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mayank-gariya&color=0891b2)
-
 <div align="center">
 
-<table>
-<tr>
-<td width="45%" align="center">
+<!-- Hero Banner -->
+![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=200&section=header&text=Data%20Science%20%26%20ML%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Transforming%20Data%20Into%20Actionable%20Intelligence&descAlignY=65&descFontSize=20)
 
-## 👋 About Me
+<!-- Profile Views & Portfolio Button -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mayank-gariya&color=667eea&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+</p>
 
-**mayank-ml_dev**  
-📍 Delhi | 🕐 17:11 (UTC +5:30)
+<a href="https://mayank-gariya.com" target="_blank">
+  <img src="https://img.shields.io/badge/→_Visit_My_Portfolio-667eea?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
-### 💼 I'm a Data Science & ML Engineer passionate about extracting meaningful insights from complex datasets and creating compelling visual stories.
+## 👨‍💼 About Me
+
+I'm a **Data Scientist & Machine Learning Engineer** dedicated to transforming raw data into actionable intelligence. I specialize in the complete ML lifecycle: from meticulous data preprocessing and exploratory analysis to sophisticated feature engineering, model training, rigorous evaluation, continuous optimization, and production deployment. My approach emphasizes iterative improvement until models achieve reliable, meaningful performance that drives real-world impact.
 
 **2 followers • 1 following**
 
-### 🔗 Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mayank-gariya/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/mayankgariyalda)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@mayankgariya482)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/GariyaMayank77)
-
 ---
 
-### 🛠️ Tech Stack 1
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Tech Stack Mastery
 
-### 📊 Tech Stack 2
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+
+### 🔄 Data Preprocessing
+**Cleaning, transforming, and preparing data for analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-4169E1?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
+<td width="50%">
 
-<td width="55%" align="center">
+### 📊 Data Visualization
+**Creating compelling visual narratives from complex data**
 
-![Profile Image](https://raw.githubusercontent.com/mayank-gariya/mayank-gariya/main/profile.jpg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0F7D4A?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
----
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### That Text Coming and Going
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🤖 Machine Learning
+**Building and optimizing models for predictive excellence**
 
-### Description
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-222C2E?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-7CB9E8?style=for-the-badge&logo=python&logoColor=white)
 
-I'm a **Data Scientist & Machine Learning Engineer** with expertise in EDA, data visualization, and building production-ready ML models. I specialize in transforming complex datasets into actionable insights and creating interactive dashboards that tell compelling data stories.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+</td>
+<td width="50%">
 
-### All Connection Links
+### 🚀 Deployment & MLOps
+**Operationalizing models in production environments**
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-gariya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gariya/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GariyaMayank77)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-4169E1?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-### Tech Stack 1
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tech Stack 2
-**ML & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-gariya&show_icons=true&theme=dark&bg_color=0d1117&border_color=667eea&text_color=c9d1d9&title_color=667eea&icon_color=667eea&hide_border=true&rank_icon=percentile)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-gariya&theme=dark&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=667eea&sideNums=667eea&currStreakLabel=667eea&sideLabels=667eea&dates=c9d1d9&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-gariya&layout=compact&theme=dark&bg_color=0d1117&border_color=667eea&text_color=c9d1d9&title_color=667eea&hide_border=true)
+
 </div>
 
 ---
 
-## 🎯 About Me (Detailed)
+## 🎯 Learning & Growth Focus
 
-I'm a **Data Science & Machine Learning engineer** with a passion for extracting meaningful insights from complex datasets and creating compelling visual stories. I specialize in building end-to-end data pipelines, exploring hidden patterns in data, and deploying ML models to production.
+<div align="center">
 
-> *"Data is the new oil, but insights are the fuel that powers innovation."*
+| 🧠 Advanced ML | ⚙️ MLOps | 🤖 LLM Engineering |
+|:---:|:---:|:---:|
+| Deep Learning Architectures | Model Deployment Pipelines | Prompt Engineering |
+| Ensemble Methods | Monitoring & Observability | RAG Systems |
+| Hyperparameter Optimization | CI/CD Automation | Fine-tuning LLMs |
 
-### 🔍 What I Do:
-- 📊 **Exploratory Data Analysis (EDA)** - Uncovering hidden patterns and anomalies
-- 🤖 **Machine Learning** - Classification, Regression, NLP, Time Series Forecasting
-- 📈 **Data Visualization** - Interactive dashboards and compelling data stories
-- 🔬 **Statistical Analysis** - Hypothesis testing and A/B testing
-- 🗄️ **Database Design** - Optimizing data pipelines and ETL processes
-- 💡 **Feature Engineering** - Creating meaningful features for better models
+| 🏗️ AI System Design | 📊 Model Monitoring | 🔨 Feature Engineering |
+|:---:|:---:|:---:|
+| Scalable ML Systems | Performance Tracking | Domain Knowledge Integration |
+| Architecture Patterns | Drift Detection | Feature Selection & Creation |
+| System Optimization | Alerting Frameworks | Data-driven Insights |
 
-### 📌 Currently Working On:
-- 🔭 Building **Advanced ML pipelines** with production-ready code
-- 🌱 Mastering **Deep Learning** (Neural Networks, NLP, Computer Vision)
-- 📊 Creating **Interactive Data Visualizations** with modern tools
-- 🎓 Exploring **Reinforcement Learning** and **Causal Inference**
-- 🚀 Deploying **ML models** on cloud platforms (AWS, GCP, Azure)
-
-### 💭 Ask Me About:
-- Python, SQL, JavaScript for data analysis and web development
-- Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
-- Statistical methods and hypothesis testing
-- Model evaluation, validation, and hyperparameter tuning
-- API development and data pipeline orchestration
-
-### ⚡ Fun Fact:
-I can spend hours exploring datasets and crafting the perfect visualization! 📊✨
+</div>
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🔗 Connect With Me
 
-### 🐍 Programming & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<div align="center">
 
-### 📊 Data Processing & ML Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🚀 ML Deployment
-![Gradio](https://img.shields.io/badge/Gradio-4169E1?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 📈 Visualization & BI Tools
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0F7D4A?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2CC8F?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gariya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=world&logoColor=white)](https://mayank-gariya.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-gariya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayank.gariya@example.com)
 
 ---
 
-## 🎯 2025-2026 Goals
+## 🎓 What I Bring to the Table
 
-✅ Master **Advanced Deep Learning** architectures  
-✅ Build **3 production ML systems**  
-✅ Contribute to **open-source ML projects**  
-✅ Write **12+ technical articles**  
-✅ Develop **Interactive visualization tools**  
-✅ Learn **MLOps & Model Deployment**
+- ✅ **End-to-End ML Solutions** — From problem definition to production deployment
+- ✅ **Data-Driven Decision Making** — Extracting insights that matter
+- ✅ **Scalable Systems** — Building models that perform reliably at scale
+- ✅ **Continuous Improvement** — Iterative refinement for optimal results
+- ✅ **Cross-functional Collaboration** — Translating ML to business value
+- ✅ **Production Excellence** — Clean, maintainable, and deployable code
 
 ---
 
 <div align="center">
 
-### 💡 "Data tells stories, visualization brings them to life" 📊✨
+### 💡 **"Data is the raw material; ML is the refinery; insights are the fuel for growth."**
 
-**Let's collaborate on data-driven projects and create impactful insights together!**
+**Let's collaborate on data-driven projects and build intelligent systems together!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=100&section=footer&text=Made%20by%20Mayank%20Gariya&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%">
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=100&section=footer&text=Happy%20Coding%20%26%20Data%20Exploring&fontSize=18&fontColor=ffffff&animation=fadeIn)
 
 </div>
+
