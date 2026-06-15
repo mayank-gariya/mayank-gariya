@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mayank-gariya&color=667eea&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
-<a href="https://mayank-gariya.com" target="_blank">
+<a href="https://mayankgariya-portfolio-website.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/→_Visit_My_Portfolio-667eea?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </a>
 
