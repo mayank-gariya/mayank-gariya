@@ -18,7 +18,7 @@
 
 I'm a **Data Scientist & Machine Learning Engineer** dedicated to transforming raw data into actionable intelligence. I specialize in the complete ML lifecycle: from meticulous data preprocessing and exploratory analysis to sophisticated feature engineering, model training, rigorous evaluation, continuous optimization, and production deployment. My approach emphasizes iterative improvement until models achieve reliable, meaningful performance that drives real-world impact.
 
-**2 followers • 1 following**
+**6 followers • 4 following**
 
 ---
 
